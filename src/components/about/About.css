@@ -29,12 +29,10 @@
   display: flex;
   align-self: center;
   overflow: hidden;
-}
-
-.about-img{
   border: 2px solid black;
   border-radius: 15px;
 }
+
 
 @media only screen and (max-width: 960px) {
   .about-container{
