@@ -14,14 +14,11 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "antoniomardoness98.github.io/portafolio-ams",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -ddbuild -r https://5e8a1c426d3d09765a5d1bcd2d700912e9f7192a@github.com/antoniomardoness98/portafolio-ams "
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
