@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import './App.css';
 import Cover from './components/cover/Cover'
-import Navbar from './components/navbar/Navbar'
+import Navbar from './components/navbar/Navbar.jsx'
 import About from './components/about/About'
 import Slider from './components/slider/Slider.jsx'
 import Info from './components/info/Info'

@@ -50,7 +50,7 @@
   }
 
   .about-desc > h3{
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     margin-left: 15px;
   }
@@ -58,6 +58,7 @@
   .about-img {
     width: 95%;
     margin-bottom: 50px;
+    height: 450px;
   }
 
   .about-img > img {

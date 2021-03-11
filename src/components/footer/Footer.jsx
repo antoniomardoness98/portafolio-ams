@@ -4,7 +4,7 @@ import './Footer.css'
 
 const Footer = () => {
   return (
-    <footer className='footer'>
+    <footer className='footer' id='contacto'>
       
       <div className="footer-info">
         <h1>Antonio Mardones San Martin</h1>
@@ -12,13 +12,13 @@ const Footer = () => {
       </div>
 
       <div className="footer-contact">
-        <h3>Contact Me</h3>
+        <h3> <b>Contact Me</b> </h3>
         <p>And let's get down to work</p>
       </div>
 
       <div className="footer-sns">
         <div className="design-by">
-          <p>Desing by: Antonio Mardones San Martin</p>
+          <p>Desing by: <span><i>Antonio Mardones San Martin</i></span> </p>
         </div>
         <div className="sns-links">
           <a href="https://instagram.com/1998.tsk" target='_blank' rel='noreferrer'>

@@ -7,9 +7,9 @@ import './Slider.css'
 
 const Slider = () => {
   return (
-    <div className='carousel-container' >
+    <div className='carousel-container' id='conocimientos' >
       <div className="carousel-title">
-        <h2>Mis conocimientos</h2>
+        <h2> <b>Mis conocimientos</b> </h2>
       </div>
 
       <Carousel
