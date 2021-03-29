@@ -46,11 +46,12 @@ nav .nav-links a {
 }
 
 nav .nav-links a:hover{
-  border: 2px solid white;
+  /*border: 2px solid white;*/
   padding: 10px;
-  padding-left: 15px;
+  padding-left: 10px;
   padding-right: 15px;
   border-radius: 20px;
+  text-decoration: underline;
 }
 
 nav .burger {

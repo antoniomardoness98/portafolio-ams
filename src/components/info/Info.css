@@ -13,6 +13,10 @@
   height: 100%;
 }
 
+.info > h1:hover{
+  font-size: 40px;
+}
+
 @media only screen and (max-width:960px) {
   .info-container{
     height: 200px;

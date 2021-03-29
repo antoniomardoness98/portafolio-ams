@@ -4,6 +4,7 @@ import imgCss from '../../media/css.png'
 import imgReact from '../../media/react.png'
 import imgBts from '../../media/bootstrap.png'
 import imgMUI from '../../media/materialui.png'
+import imgPhp from '../../media/php.jpg'
 import './Slider.css'
 
 const slidesInfo = [
@@ -31,6 +32,11 @@ const slidesInfo = [
     src: imgMUI,
     alt: 'Mui',
     desc: 'MATERIAL UI',
+  },
+  {
+    src: imgPhp,
+    alt: 'php',
+    desc: 'PHP',
   },
 ]
 

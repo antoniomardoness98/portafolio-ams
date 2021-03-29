@@ -15,6 +15,11 @@
   padding: 0 100px 0 100px;
 }
 
+.carousel-title:hover{
+  font-style: italic;
+  text-decoration: underline;
+}
+
 .slide-container{
   height: 90%;
   border-radius: 40px;
@@ -83,5 +88,6 @@
 
   .slide-container{
     width: 100%;
+    margin: 0px auto;
   }
 }

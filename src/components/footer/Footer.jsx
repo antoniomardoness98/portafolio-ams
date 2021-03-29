@@ -12,13 +12,13 @@ const Footer = () => {
       </div>
 
       <div className="footer-contact">
-        <h3> <b>Contact Me</b> </h3>
-        <p>And let's get down to work</p>
+        <h3> <b>Contactame</b> </h3>
+        <p>Y pongámosnos manos a la obra!</p>
       </div>
 
       <div className="footer-sns">
         <div className="design-by">
-          <p>Desing by: <span><i>Antonio Mardones San Martin</i></span> </p>
+          <p>Diseñado por: <span><i>Antonio Mardones San Martin</i></span> </p>
         </div>
         <div className="sns-links">
           <a href="https://instagram.com/1998.tsk" target='_blank' rel='noreferrer'>
